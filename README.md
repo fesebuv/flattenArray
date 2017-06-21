@@ -12,4 +12,4 @@ npm install
 ```sh
 npm run test
 ```
->>>>>>> updates to add tests, add npm
+
