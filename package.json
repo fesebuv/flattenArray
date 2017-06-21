@@ -1,0 +1,26 @@
+{
+  "name": "flatten-array",
+  "version": "0.0.1",
+  "description": "Flatten Array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fesebuv/flattenArray.git"
+  },
+  "keywords": [
+    "array",
+    "flatten"
+  ],
+  "author": "Felipe S. Buenano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fesebuv/flattenArray/issues"
+  },
+  "homepage": "https://github.com/fesebuv/flattenArray#readme",
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  }
+}
